@@ -5,10 +5,13 @@ body {
     text-align: center;
     font-family: 'Roboto', arial;
 }
+
  #links>a {
-    float: left;
+    float: center;
     display: incline-block;
-    width: 33%;
+    width: 0%;
     padding: 0;
-    margin: 0;
+    margin: 4%;
  }
+
+

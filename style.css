@@ -6,12 +6,13 @@ body {
     font-family: 'Roboto', arial;
 }
 
- #links>a {
-    float: center;
-    display: incline-block;
-    width: 0%;
-    padding: 0;
+ #links {
+    display: flex;
+    padding: 0pt;
     margin: 4%;
+    justify-content: center;
  }
 
-
+ .elementOfHomepage {
+    padding: 20pt;
+ }
